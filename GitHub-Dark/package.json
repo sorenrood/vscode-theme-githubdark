@@ -1,0 +1,21 @@
+{
+    "name": "GitHub-Dark",
+    "displayName": "GitHub Dark",
+    "description": "A color theme that reflects GitHub's new dark mode. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GitHub Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GitHub Dark-color-theme.json"
+            }
+        ]
+    }
+}
