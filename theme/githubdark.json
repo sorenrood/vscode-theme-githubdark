@@ -1,6 +1,6 @@
 // Background: "#0E1116"
 // Text: "#CAD1D8", DarkText: "#53575c"
-// Orange: "#EA8872"
+// Orange: "#e37a72"
 "workbench.colorCustomizations": {
         
         "focusBorder": "#3884e7",
@@ -10,7 +10,7 @@
         "activityBar.foreground":"#CAD1D8",
         "activityBar.border": "#53575c88",
         "activityBar.inactiveForeground": "#53575c",
-        "activityBar.activeBorder": "#EA8872",
+        "activityBar.activeBorder": "#e37a72",
         "activityBarBadge.background": "#184b08",
         "activityBarBadge.foreground": "#67DC43",
         
@@ -26,10 +26,10 @@
         "editorGutter.deletedBackground":"#ad0f0f",
         "editorGutter.modifiedBackground": "#3884e7",
 
-        "gitDecoration.modifiedResourceForeground": "#EA8872",
+        "gitDecoration.modifiedResourceForeground": "#e37a72",
         "gitDecoration.ignoredResourceForeground": "#53575c",
 
-        "panelTitle.activeBorder": "#EA8872",
+        "panelTitle.activeBorder": "#e37a72",
         "panelTitle.inactiveForeground": "#53575c",
         
         "sideBar.background": "#0E1116",
@@ -40,7 +40,7 @@
         "statusBar.border": "#53575c88",
         
         "tab.activeBackground": "#0000",
-        "tab.activeBorder": "#EA8872",
+        "tab.activeBorder": "#e37a72",
         "tab.border": "#0000",
         "tab.inactiveBackground": "#0E1116",
 
