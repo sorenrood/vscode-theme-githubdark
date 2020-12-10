@@ -1,7 +1,5 @@
-// Background: "#0E1116"
-// Text: "#CAD1D8", DarkText: "#53575c"
-// Orange: "#e37a72"
-"workbench.colorCustomizations": {
+{
+    "workbench.colorCustomizations": {
         
         "focusBorder": "#3884e7",
         "foreground": "#CAD1D8",
@@ -45,5 +43,6 @@
         "tab.inactiveBackground": "#0E1116",
 
         "titleBar.activeBackground": "#0E1116",
-        "titleBar.inactiveBackground": "#0E1116",
+        "titleBar.inactiveBackground": "#0E1116"
     }
+}
