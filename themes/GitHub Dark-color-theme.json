@@ -32,6 +32,15 @@
 			}
 		},
 		{
+			"name": "Keyboard import control",
+			"scope": [
+				"keyword.control.import"
+			],
+			"settings": {
+				"foreground": "#e37a72"
+			}
+		},
+		{
 			"name": "Colors",
 			"scope": [
 				"constant.other.color"
