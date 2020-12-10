@@ -3,6 +3,7 @@
     "displayName": "GitHub Dark",
     "description": "A color theme that reflects GitHub's new dark mode. ",
     "version": "0.0.1",
+    "icon": "images/logo.png",
     "repository": "https://github.com/sorenrood/vscode-theme-githubdark",
     "publisher": "SorenandJustin",
     "engines": {
