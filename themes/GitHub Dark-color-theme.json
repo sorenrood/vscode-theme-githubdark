@@ -2,10 +2,12 @@
 	"name": "GitHub Dark",
 	"type": "dark",
 	"colors": {
+		"activityBar.background": "#0E1116",
 		"editor.background": "#0E1116",
-		"editor.foreground": "#0E1116",
+		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#0E1116",
-		"sideBarTitle.foreground": "#0E1116"
+		"sideBarTitle.foreground": "#0E1116",
+		"statusBar.background": "#0E1116",
 	},
 	"tokenColors": [
 		{
@@ -16,7 +18,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e37a72"
+				"foreground": "#888c91"
 			}
 		},
 		{
@@ -45,7 +47,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#e37a72"
+				"foreground": "#CAD1D8"
 			}
 		},
 		{
@@ -76,7 +78,38 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#e37a72"
+				"foreground": "#CAD1D8"
+			}
+		},
+		{
+			"name": "Punctuation definition arguments",
+			"scope": [
+				"punctuation.definition.arguments"
+			],
+			"settings": {
+				"foreground": "#CAD1D8"
+			}
+		},
+		{
+			"name": "Quoted String",
+			"scope": [
+				"string.quoted",
+				"punctuation.definition.string"
+			],
+			"settings": {
+				"foreground": "#81a9df",
+			}
+		},
+		{
+			"name": "Operator Asignment",
+			"scope": [
+				"keyword.operator.assignment",
+				"keyword.operator.comparison",
+				"keyword.operator.arithmetic"
+
+			],
+			"settings": {
+				"foreground": "#CAD1D8",
 			}
 		},
 		{
@@ -87,7 +120,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#e37a72"
+				"foreground": "#CAD1D8"
 			}
 		},
 		{
@@ -100,7 +133,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e37a72"
+				"foreground": "#c6a7fc"
 			}
 		},
 		{
@@ -135,7 +168,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#e37a72"
+				"foreground": "#81a9df"
 			}
 		},
 		{
@@ -150,7 +183,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#e37a72"
+				"foreground": "#00F"
 			}
 		},
 		{
@@ -335,7 +368,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e37a72"
+				"foreground": "#81a9df"
 			}
 		},
 		{
