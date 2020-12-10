@@ -3,6 +3,8 @@
     "displayName": "GitHub Dark",
     "description": "A color theme that reflects GitHub's new dark mode. ",
     "version": "0.0.1",
+    "repository": "https://github.com/sorenrood/vscode-theme-githubdark",
+    "publisher": "SorenandJustin",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -17,5 +19,8 @@
                 "path": "./themes/GitHub Dark-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.81.1"
     }
 }
