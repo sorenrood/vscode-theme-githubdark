@@ -13,6 +13,9 @@
         "activityBar.activeBorder": "#EA8872",
         "activityBarBadge.background": "#184b08",
         "activityBarBadge.foreground": "#67DC43",
+        
+        "badge.background": "#184b08",
+        "badge.foreground": "#67DC43",
 
         "editor.background": "#0E1116",
         "editorBracketMatch.background": "#67DC4320",
