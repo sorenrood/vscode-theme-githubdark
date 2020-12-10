@@ -44,5 +44,10 @@
 
         "titleBar.activeBackground": "#0E1116",
         "titleBar.inactiveBackground": "#0E1116"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#F00",
+        "functions": "#F00",
+        "variables": "#F00"
     }
 }
