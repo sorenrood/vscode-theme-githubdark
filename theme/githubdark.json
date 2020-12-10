@@ -1,8 +1,8 @@
+// Background: "#0E1116"
+// Text: "#CAD1D8", DarkText: "#53575c"
+// Orange: "#EA8872"
 "workbench.colorCustomizations": {
-        // Background: "#0E1116"
-        // Text: "#CAD1D8", DarkText: "#53575c"
-        // Orange: "#EA8872"
-
+        
         "focusBorder": "#3884e7",
         "foreground": "#CAD1D8",
 
