@@ -38,6 +38,11 @@
 
         "statusBar.background": "#0E1116",
         "statusBar.border": "#53575c88",
+        
+        "tab.activeBackground": "#0000",
+        "tab.activeBorder": "#EA8872",
+        "tab.border": "#0000",
+        "tab.inactiveBackground": "#0E1116",
 
         "titleBar.activeBackground": "#0E1116",
         "titleBar.inactiveBackground": "#0E1116",
